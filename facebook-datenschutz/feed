@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: Facebook Datenschutz</title>
+	<atom:link href="http://digitalkultur.tv/facebook-datenschutz/feed" rel="self" type="application/rss+xml" />
+	<link>http://digitalkultur.tv/facebook-datenschutz</link>
+	<description>Digitales Leben, Netzkultur &#38; Internet</description>
+	<lastBuildDate>Wed, 03 Sep 2014 19:13:40 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Von: Mango Aioli</title>
+		<link>http://digitalkultur.tv/facebook-datenschutz#comment-9</link>
+		<dc:creator><![CDATA[Mango Aioli]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 19:13:40 +0000</pubDate>
+		<guid isPermaLink="false">http://digitalkultur.tv/?p=43#comment-9</guid>
+		<description><![CDATA[Großartiges Video. Supa strukturiert. Ich habe in nua wenign Minutn das Konzept verstandn, wie ich mich besser auf Facebook schütze. Danke.]]></description>
+		<content:encoded><![CDATA[<p>Großartiges Video. Supa strukturiert. Ich habe in nua wenign Minutn das Konzept verstandn, wie ich mich besser auf Facebook schütze. Danke.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

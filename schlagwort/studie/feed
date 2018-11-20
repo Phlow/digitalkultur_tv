@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>studie &#8211; digitalKultur.TV</title>
+	<atom:link href="http://digitalkultur.tv/schlagwort/studie/feed" rel="self" type="application/rss+xml" />
+	<link>http://digitalkultur.tv</link>
+	<description>Digitales Leben, Netzkultur &#38; Internet</description>
+	<lastBuildDate>Fri, 21 Apr 2017 19:32:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Studie: Facebook-Nutzer sind meistens ehrlich</title>
+		<link>http://digitalkultur.tv/studie-facebook-nutzer-ehrlich</link>
+		<comments>http://digitalkultur.tv/studie-facebook-nutzer-ehrlich#respond</comments>
+		<pubDate>Mon, 09 Sep 2013 16:44:52 +0000</pubDate>
+		<dc:creator><![CDATA[Moritz »mo.« Sauer]]></dc:creator>
+				<category><![CDATA[Neues]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[online verhalten]]></category>
+		<category><![CDATA[studie]]></category>
+
+		<guid isPermaLink="false">http://digitalkultur.tv/?p=458</guid>
+		<description><![CDATA[<p>Studie: Facebook-Nutzer sind meistens ehrlich »Auf Facebook und in anderen Netzwerken gelten im Grunde die gleichen sozialen Regeln wie im echten Leben. Die meisten Nutzer zeigen auf den Plattformen ein relativ originalgetreues Bild von sich, haben Forscher der Universitäten in Münster, Mainz und Göttingen herausgefunden. « Mehr Informationen zum Thema Facebook »</p>
+<p>The post <a rel="nofollow" href="http://digitalkultur.tv/studie-facebook-nutzer-ehrlich">Studie: Facebook-Nutzer sind meistens ehrlich</a> appeared first on <a rel="nofollow" href="http://digitalkultur.tv">digitalKultur.TV</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2><a href="http://www.heise.de/newsticker/meldung/Studie-Facebook-Nutzer-sind-meistens-ehrlich-1952553.html" target="_blank">Studie: Facebook-Nutzer sind meistens ehrlich</a></h2>
+<p><em>»Auf Facebook und in anderen Netzwerken gelten im Grunde die gleichen sozialen Regeln wie im echten Leben. Die meisten Nutzer zeigen auf den Plattformen ein relativ originalgetreues Bild von sich, haben Forscher der Universitäten in Münster, Mainz und Göttingen herausgefunden. «</em></p>
+<h4>Mehr Informationen zum <a title="Datenschutz" href="http://digitalkultur.tv/schlagwort/facebook">Thema Facebook »</a></h4>
+<p>The post <a rel="nofollow" href="http://digitalkultur.tv/studie-facebook-nutzer-ehrlich">Studie: Facebook-Nutzer sind meistens ehrlich</a> appeared first on <a rel="nofollow" href="http://digitalkultur.tv">digitalKultur.TV</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://digitalkultur.tv/studie-facebook-nutzer-ehrlich/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

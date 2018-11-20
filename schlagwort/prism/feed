@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>prism &#8211; digitalKultur.TV</title>
+	<atom:link href="http://digitalkultur.tv/schlagwort/prism/feed" rel="self" type="application/rss+xml" />
+	<link>http://digitalkultur.tv</link>
+	<description>Digitales Leben, Netzkultur &#38; Internet</description>
+	<lastBuildDate>Fri, 21 Apr 2017 19:32:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Überwachungsprogramm Prism: US-Regierung zapft Facebook und Google an</title>
+		<link>http://digitalkultur.tv/uberwachungsprogramm-prism-us-regierung-zapft-facebook-und-google-an</link>
+		<comments>http://digitalkultur.tv/uberwachungsprogramm-prism-us-regierung-zapft-facebook-und-google-an#respond</comments>
+		<pubDate>Fri, 07 Jun 2013 09:54:49 +0000</pubDate>
+		<dc:creator><![CDATA[Moritz »mo.« Sauer]]></dc:creator>
+				<category><![CDATA[Neues]]></category>
+		<category><![CDATA[datenschutz]]></category>
+		<category><![CDATA[prism]]></category>
+
+		<guid isPermaLink="false">http://digitalkultur.tv/?p=422</guid>
+		<description><![CDATA[<p>Der Geheimdienst NSA greift offenbar auf Server großer Internetfirmen zu und überwacht deren Nutzer. Das Programm heißt Prism, die Regierung hat seine Existenz bestätigt.</p>
+<p>The post <a rel="nofollow" href="http://digitalkultur.tv/uberwachungsprogramm-prism-us-regierung-zapft-facebook-und-google-an">Überwachungsprogramm Prism: US-Regierung zapft Facebook und Google an</a> appeared first on <a rel="nofollow" href="http://digitalkultur.tv">digitalKultur.TV</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2><a href="http://www.zeit.de/digital/datenschutz/2013-06/USA-Geheimdienste-Daten-Internet-Verizon/komplettansicht">Überwachungsprogramm Prism: US-Regierung zapft Facebook und Google an</a></h2>
+<p><em>Der Geheimdienst NSA greift offenbar auf Server großer Internetfirmen zu und überwacht deren Nutzer. Das Programm heißt Prism, die Regierung hat seine Existenz bestätigt.</em></p>
+<h4>Mehr Informationen zum <a title="Datenschutz" href="http://digitalkultur.tv/schlagwort/datenschutz">Thema Datenschutz »</a></h4>
+<p>The post <a rel="nofollow" href="http://digitalkultur.tv/uberwachungsprogramm-prism-us-regierung-zapft-facebook-und-google-an">Überwachungsprogramm Prism: US-Regierung zapft Facebook und Google an</a> appeared first on <a rel="nofollow" href="http://digitalkultur.tv">digitalKultur.TV</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://digitalkultur.tv/uberwachungsprogramm-prism-us-regierung-zapft-facebook-und-google-an/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zitat &#8211; digitalKultur.TV</title>
+	<atom:link href="http://digitalkultur.tv/type/quote/feed" rel="self" type="application/rss+xml" />
+	<link>http://digitalkultur.tv</link>
+	<description>Digitales Leben, Netzkultur &#38; Internet</description>
+	<lastBuildDate>Fri, 21 Apr 2017 19:32:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Hackerethik</title>
+		<link>http://digitalkultur.tv/hackerethik</link>
+		<comments>http://digitalkultur.tv/hackerethik#respond</comments>
+		<pubDate>Wed, 24 Apr 2013 16:31:43 +0000</pubDate>
+		<dc:creator><![CDATA[Moritz »mo.« Sauer]]></dc:creator>
+				<category><![CDATA[Neues]]></category>
+
+		<guid isPermaLink="false">http://digitalkultur.tv/?p=237</guid>
+		<description><![CDATA[<p>»Man kann mit einem Computer Kunst und Schönheit schaffen.« Ein Grundsatz aus der Hackerethik des CCC</p>
+<p>The post <a rel="nofollow" href="http://digitalkultur.tv/hackerethik">Hackerethik</a> appeared first on <a rel="nofollow" href="http://digitalkultur.tv">digitalKultur.TV</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2><em>»Man kann mit einem Computer Kunst und Schönheit schaffen.«</em></h2>
+<p style="text-align: right;">Ein Grundsatz aus der <a title="Hackerethik" href="http://www.ccc.de/hackerethik" target="_blank">Hackerethik des CCC</a></p>
+<p>The post <a rel="nofollow" href="http://digitalkultur.tv/hackerethik">Hackerethik</a> appeared first on <a rel="nofollow" href="http://digitalkultur.tv">digitalKultur.TV</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://digitalkultur.tv/hackerethik/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Only one thing is impossible for God&#8230;</title>
+		<link>http://digitalkultur.tv/mark-twain-zitat-copyright</link>
+		<comments>http://digitalkultur.tv/mark-twain-zitat-copyright#respond</comments>
+		<pubDate>Sat, 16 Feb 2013 10:29:51 +0000</pubDate>
+		<dc:creator><![CDATA[Moritz »mo.« Sauer]]></dc:creator>
+				<category><![CDATA[Neues]]></category>
+
+		<guid isPermaLink="false">http://digitalkultur.tv/?p=299</guid>
+		<description><![CDATA[<p>»Only one thing is impossible for God: To find any sense in any copyright law on the planet.« Mark Twain</p>
+<p>The post <a rel="nofollow" href="http://digitalkultur.tv/mark-twain-zitat-copyright">Only one thing is impossible for God&#8230;</a> appeared first on <a rel="nofollow" href="http://digitalkultur.tv">digitalKultur.TV</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2><em>»Only one thing is impossible for God: To find any sense in any copyright law on the planet.«</em></h2>
+<p style="text-align: right;">Mark Twain</p>
+<p>The post <a rel="nofollow" href="http://digitalkultur.tv/mark-twain-zitat-copyright">Only one thing is impossible for God&#8230;</a> appeared first on <a rel="nofollow" href="http://digitalkultur.tv">digitalKultur.TV</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://digitalkultur.tv/mark-twain-zitat-copyright/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
